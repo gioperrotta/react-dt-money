@@ -2,7 +2,11 @@
 
 ❯ npx @eslint/migrate-config .eslintrc.json        
 ❯ npm i @types/node -D
-❯ npm i @vitejs/plugin-react-swc -D    
+❯ npm i @vitejs/plugin-react-swc -D
+
+❯ npm i styled-components 
+❯ npm i @types/styled-components -D
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

@@ -79,6 +79,7 @@ export default [
       'jsx-a11y/anchor-has-content': 'off',
       'jsx-a11y/iframe-has-title': 'off',
       '@typescript-eslint/explicit-module-boundary-types': 'off',
+      '@typescript-eslint/no-empty-interface': 'off',
 
       'prettier/prettier': [
         'error',
